@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hadith/static/css/main.c79b7180.css",
+    "main.js": "/hadith/static/js/main.c3a3e061.js",
+    "index.html": "/hadith/index.html",
+    "main.c79b7180.css.map": "/hadith/static/css/main.c79b7180.css.map",
+    "main.c3a3e061.js.map": "/hadith/static/js/main.c3a3e061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79b7180.css",
+    "static/js/main.c3a3e061.js"
+  ]
+}
